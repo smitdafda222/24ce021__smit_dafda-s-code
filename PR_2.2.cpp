@@ -1,7 +1,4 @@
-#include <iostream>
-using namespace std;
-
-class students_details {
+#include <iostretudents_details {
     int eng, maths, cpp, id;
     float avg;
     string name;
